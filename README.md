@@ -8,7 +8,7 @@
 
 <br>
 
-> Esta interface de Login poderá ser usada em quqlquer projeto onde seja necessário restringir o acesso 
+> Esta interface de Login poderá ser usada em qualquer projeto onde seja necessário restringir o acesso 
 > de usuários
 
 ## 🛠️ Ajustes e melhorias
